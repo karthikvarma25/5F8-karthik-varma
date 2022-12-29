@@ -1,0 +1,71 @@
+.table{
+  width: 1050px;
+  position: absolute;
+  left: 18%;
+  top: 20%;
+  height: 50px;
+  padding-top: 3.5px;
+  padding-bottom: 3.5px;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: #FF597B;
+  border: 2px solid white;
+}
+
+.one{
+  width: 150px;
+  height: 530px;
+  background-color: #A8D1D1;
+  position: absolute;
+  top: 26%;
+  left: 17.4%;
+}
+
+.Catalogue{
+  position: relative;
+  left: 10%;
+}
+
+
+.tablelogo{
+  position: absolute;
+  top: 20px;
+  left: 260px;
+}
+
+.form{
+  position: absolute;
+  top: 390px;
+  left: 690px;
+}
+
+.tablelogo{
+  position: absolute;
+  top: 1%;
+  left: 18%;
+}
+
+.table1{
+  width: 900px;
+  position: absolute;
+  left: 27%;
+  top: 32.6%;
+  text-align: center;
+}
+
+.h3{
+  position: absolute;
+  left: 37%;
+  top: 26%;
+}
+.nextpage{
+  position: absolute;
+  top: 87%;
+  left: 45%;
+}
+
+.previouspage{
+  position: absolute;
+  top: 87%;
+  left: 50%;
+}
